@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import classification_report
 from sklearn.metrics import accuracy_score
-import xgboost as xgb
 import pickle
 import seaborn as sns
 
