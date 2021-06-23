@@ -1,0 +1,6 @@
+Requirements:
+Streamlit library
+pandas library
+sklearn library
+numpy library
+Jupyter notebook
